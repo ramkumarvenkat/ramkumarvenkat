@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Ramkumar Venkataraman (@ramkumarvenkat). I am the co-founder and CTO of [Arda](https://www.arda.finance/)
+- 👋 Hi, I’m Ramkumar Venkataraman (@ramkumarvenkat). I am the co-founder and CTO of [Sei](https://seiright.com/)
 - 👀 I’m looking for growth-oriented engineers looking to build and scale products
-- 📫 You can connect at [Twitter](https://twitter.com/ramthemaniac) | [Linkedin](https://www.linkedin.com/in/ramkumar-venkataraman-19202014) | [Email](mailto:ram@arda.finance)
+- 📫 You can connect at [Twitter](https://twitter.com/ramthemaniac) | [Linkedin](https://www.linkedin.com/in/ramkumar-venkataraman-19202014) | [Email](mailto:ram@seiright.com)
 
 <!---
 ramkumarvenkat/ramkumarvenkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
